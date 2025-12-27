@@ -1,4 +1,4 @@
-![GitHub banner](assets/abdurrahman.webp)
+![GitHub banner](abdurrahman.webp)
 
 # Abdur Rahman — Full Stack Engineering & Growth Partner
 
