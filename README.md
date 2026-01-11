@@ -30,13 +30,13 @@ Each project combines data science, engineering, and storytelling so teams get s
 | [Rare Bangladesh Ltd](https://rarebd.com) | Modernize the HVAC buyer and dealer journey. | Built a React and Node system with multilingual content and automation that tracks leads and sales. |
 | [Radhuni](https://radhuni-zeta.vercel.app) | Create a trusted chef and event marketplace. | Shipped secure booking flows on Next.js and Tailwind CSS with a clear launch and growth playbook. |
 
-## Core Skills
+## Core Skills (Intermediate)
 
-- Applied AI/ML: data sourcing, feature pipelines, model experimentation, evaluation metrics, and safe deployment.
-- Product builds: design systems, React/Next.js apps, Node/Nest services, and clean data models.
-- Platform ops: CI/CD, observability, infrastructure-as-code, and automation on AWS, Vercel, and Docker.
-- Growth programs: positioning, product narratives, SEO, and multi-channel campaigns tied to revenue.
-- Delivery habits: cross-functional leadership, strong documentation, and clear progress reporting.
+- Applied AI/ML: building datasets, testing models, tuning evaluation metrics, and deploying responsibly with mentor review.
+- Product builds: implementing React/Next.js apps, Node/Nest services, and structured data models with clean code practices.
+- Platform ops: configuring CI/CD, observability, and infrastructure-as-code on AWS, Vercel, and Docker for stable releases.
+- Growth programs: supporting positioning, product storytelling, SEO, and multi-channel campaigns aligned to revenue goals.
+- Delivery habits: facilitating cross-team work, writing clear docs, and reporting progress with practical next steps.
 
 ## Toolkit
 
