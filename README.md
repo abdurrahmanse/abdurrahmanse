@@ -41,7 +41,7 @@ Each project combines data science, engineering, and storytelling so teams get s
 ## Toolkit
 
 - Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS
-- Data science: Pandas, NumPy, scikit-learn, TensorFlow Lite
+- Data science: Pandas, NumPy, scikit-learn, TensorFlow Lite, pytorch
 - Web stack: Next.js, React, NestJS, Express, Prisma
 - Databases & cloud: PostgreSQL, MongoDB, MySQL, AWS, Vercel, Docker
 - Workflow: Git, GitHub Actions, Jest, Testing Library, Postman, Figma
