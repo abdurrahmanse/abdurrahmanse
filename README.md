@@ -32,11 +32,11 @@ Each project combines data science, engineering, and storytelling so teams get s
 
 ## Core Skills (Intermediate)
 
-- Applied AI/ML: building datasets, testing models, tuning evaluation metrics, and deploying responsibly with mentor review.
-- Product builds: implementing React/Next.js apps, Node/Nest services, and structured data models with clean code practices.
-- Platform ops: configuring CI/CD, observability, and infrastructure-as-code on AWS, Vercel, and Docker for stable releases.
-- Growth programs: supporting positioning, product storytelling, SEO, and multi-channel campaigns aligned to revenue goals.
-- Delivery habits: facilitating cross-team work, writing clear docs, and reporting progress with practical next steps.
+- Machine learning: prepare data, train models, track accuracy.
+- Web apps: build React/Next.js fronts and Node APIs.
+- DevOps basics: set up CI/CD and handle cloud releases.
+- Growth support: help with messaging, SEO, and campaigns.
+- Team habits: document work, share updates, collaborate well.
 
 ## Toolkit
 
