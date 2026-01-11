@@ -40,10 +40,11 @@ Each project combines data science, engineering, and storytelling so teams get s
 
 ## Toolkit
 
-- Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS, Java
-- Frameworks: Next.js, React, Angular, NestJS, Express, GraphQL, Prisma
-- Infrastructure: AWS, Vercel, Docker, PostgreSQL, MySQL, MongoDB
-- Product & DX: Git, GitHub Actions, Jest, Testing Library, Postman, Storybook, Figma
+- Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS
+- Data science: Pandas, NumPy, scikit-learn, TensorFlow Lite
+- Web stack: Next.js, React, NestJS, Express, Prisma
+- Databases & cloud: PostgreSQL, MongoDB, MySQL, AWS, Vercel, Docker
+- Workflow: Git, GitHub Actions, Jest, Testing Library, Postman, Figma
 
 ## Work With Abdur
 
