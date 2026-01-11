@@ -1,50 +1,50 @@
-![GitHub banner](abdurrahman.webp)
+![GitHub banner](/assets/abdurrahman.webp)
 
-# Abdur Rahman — Full Stack Engineering & Growth Partner
+# Abdur Rahman — Full-Stack Builder & Growth Partner
 
-AI/ML researcher and full-stack engineer combining product development with digital marketing execution. I build launch-ready software, automate data-driven workflows, and craft go-to-market systems that keep products growing after release.
+Abdur Rahman is an AI/ML researcher and full-stack engineer who helps teams build useful software, ship faster, and grow with clear plans. He translates ideas into reliable products and keeps the launch momentum going with repeatable growth systems.
 
 ## Snapshot
 
-- Based in Debiganj, Panchagarh · collaborating globally
-- Focused on applied AI/ML, resilient TypeScript platforms, and measurable growth campaigns
-- Available for fractional leadership, project-based delivery, and advisory retainers
-- Typical response time: within one business day
+- Based in Debiganj, Panchagarh · working with clients across North America, Europe, and APAC
+- Focused on applied AI/ML, TypeScript product stacks, and practical growth operations
+- Works as a fractional leader, project partner, or long-term advisor
+- Replies to new requests within one business day
 
-## What I Deliver
+## Value
+
+Each project combines research, engineering, and storytelling so teams get software that works and grows with measurable impact.
 
 | Pillar | Outcomes |
 | --- | --- |
-| Applied AI & ML systems | Model experimentation, evaluation pipelines, and production MLOps with ethical guardrails.
-| Full-stack product builds | Next.js frontends, API-driven backends, and cloud-native infrastructure engineered for scale.
-| Growth marketing orchestration | SEO, content, and paid media programs that translate launches into sustainable demand.
+| Applied AI & ML systems | Model experimentation, evaluation frameworks, and production MLOps with responsible deployment guardrails. |
+| Full-stack product builds | Next.js frontends, API-first backends, and cloud infrastructure architected for reliability and scale. |
+| Growth marketing orchestration | SEO, content, and paid media programs that turn launches into sustained market demand. |
 
-Every engagement blends research, engineering, and storytelling so complex ideas become human-centered products with clear ROI.
+## Recent Work
 
-## Selected Collaborations
-
-| Project | Brief | Highlights |
+| Project | Goal | Role |
 | --- | --- | --- |
-| [Finance Pro](https://financepr.vercel.app) | Enterprise financial management platform with dashboards and forecasting. | Next.js, Node, PostgreSQL, analytics-driven reporting, executive-ready insights. |
-| [Rare Bangladesh Ltd](https://rarebd.com) | Corporate HVAC experience that streamlines product discovery and dealer outreach. | React, Node.js, MongoDB, marketing automation, multilingual content workflows. |
-| [Radhuni](https://radhuni-zeta.vercel.app) | Chef and private event marketplace with scheduling and secure payments. | Next.js, Tailwind CSS, Vercel, booking flows, growth-focused launch plan. |
+| [Finance Pro](https://financepr.vercel.app) | Launch an enterprise finance platform with smart reports. | Designed the Next.js and Node architecture, built PostgreSQL analytics, and delivered executive dashboards. |
+| [Rare Bangladesh Ltd](https://rarebd.com) | Modernize the HVAC buyer and dealer journey. | Built a React and Node system with multilingual content and automation that tracks leads and sales. |
+| [Radhuni](https://radhuni-zeta.vercel.app) | Create a trusted chef and event marketplace. | Shipped secure booking flows on Next.js and Tailwind CSS with a clear launch and growth playbook. |
 
-## Capabilities
+## Core Skills
 
-- AI/ML engineering: data sourcing, feature pipelines, evaluation frameworks, and responsible deployment practices.
-- Full-stack product development: design systems, React and Next.js applications, Node/Nest services, and database architecture.
-- Platform operations: CI/CD, observability, infrastructure-as-code, and cloud-native automation on AWS and Vercel.
-- Growth strategy: positioning, narrative design, SEO roadmaps, and integrated campaign orchestration.
-- Collaboration: cross-functional enablement, documentation-first workflows, and outcome-based reporting for stakeholders.
+- Applied AI/ML: data sourcing, feature pipelines, evaluation metrics, and safe deployment.
+- Product builds: design systems, React/Next.js apps, Node/Nest services, and clean data models.
+- Platform ops: CI/CD, observability, infrastructure-as-code, and automation on AWS, Vercel, and Docker.
+- Growth programs: positioning, product narratives, SEO, and multi-channel campaigns tied to revenue.
+- Delivery habits: cross-functional leadership, strong documentation, and clear progress reporting.
 
 ## Toolkit
 
-- Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS, Java.
-- Frameworks: Next.js, React, Angular, NestJS, Express, GraphQL, Prisma.
-- Infrastructure: AWS, Vercel, Docker, PostgreSQL, MySQL, MongoDB.
-- Product & DX: Git, GitHub Actions, Jest, Testing Library, Postman, Storybook, Figma.
+- Languages: TypeScript, JavaScript, Python, SQL, HTML, CSS, Java
+- Frameworks: Next.js, React, Angular, NestJS, Express, GraphQL, Prisma
+- Infrastructure: AWS, Vercel, Docker, PostgreSQL, MySQL, MongoDB
+- Product & DX: Git, GitHub Actions, Jest, Testing Library, Postman, Storybook, Figma
 
-## Work With Me
+## Work With Abdur
 
 - Website: [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)
 - Email: [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com)
@@ -54,4 +54,4 @@ Every engagement blends research, engineering, and storytelling so complex ideas
 - X (Twitter): [twitter.com/abdurrahmansoftw](https://twitter.com/abdurrahmansoftw)
 - Resume: [Download PDF](https://abdurrahmans.vercel.app/resume/resume.pdf)
 
-Ready to plan your next launch? Share the mission, and I will outline the blend of software, automation, and marketing that makes it real.
+Share a short brief and Abdur will map the software, automation, and growth steps needed to deliver with confidence.
