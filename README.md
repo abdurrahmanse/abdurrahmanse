@@ -1,12 +1,14 @@
-![GitHub banner](/assets/abdurrahman.webp)
+[![Portfolio cover](/assets/abdurrahman.webp)](https://abdurrahmans.vercel.app)
 
 # Abdur Rahman — AI/ML Engineer & Growth Partner
+
+Explore the full portfolio at [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app).
 
 Abdur Rahman is an AI/ML engineer and data science specialist who also works across the full stack. He helps teams turn raw data into clear decisions, ship useful software, and back every launch with simple, repeatable growth systems.
 
 ## Snapshot
 
-- Based in Debiganj, Panchagarh · working with clients across North America, Europe, and APAC
+- Based in Debiganj, Panchagarh and supporting clients worldwide.
 - Focused on applied AI/ML, data science, TypeScript product stacks, and practical growth operations
 - Pursuing a long-term career leading applied AI/ML and data science initiatives
 - Works as a fractional leader, project partner, or long-term advisor
