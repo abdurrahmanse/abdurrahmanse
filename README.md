@@ -6,31 +6,20 @@ Explore the full portfolio at [abdurrahmans.vercel.app](https://abdurrahmans.ver
 
 Abdur Rahman is an AI/ML engineer and data science specialist who also works across the full stack. He helps teams turn raw data into clear decisions, ship useful software, and back every launch with simple, repeatable growth systems.
 
-## Snapshot
+## About Me
 
-- Based in Debiganj, Panchagarh and supporting clients worldwide.
-- Focused on applied AI/ML, data science, TypeScript product stacks, and practical growth operations
-- Pursuing a long-term career leading applied AI/ML and data science initiatives
-- Works as a fractional leader, project partner, or long-term advisor
-- Replies to new requests within one business day
+- Working remotely with global collaborators
+- Pursuing an M.Sc. in CSE at Dhaka University of Engineering and Technology (DUET)
+- Love traveling to natural landscapes
+- Creating content that explores and shares transformative ideas
+- Based in Dhaka, Bangladesh
 
-## Value
+## Philosophy
 
-Each project combines data science, engineering, and storytelling so teams get software that works, learns, and grows with measurable impact.
+> "Life is Beautiful"
 
-| Pillar | Outcomes |
-| --- | --- |
-| Applied AI/ML systems | Data audits, feature pipelines, model experimentation, and production MLOps with responsible deployment guardrails. |
-| Full-stack product builds | Next.js frontends, API-first backends, and cloud infrastructure architected for reliability and scale. |
-| Growth marketing orchestration | SEO, content, and paid media programs that turn launches into sustained market demand. |
+Life is a precious gift meant to be experienced and shared. Always open to meaningful conversations about technology, cinema, sports, or the beautiful complexities of life.
 
-## Recent Work
-
-| Project | Goal | Role |
-| --- | --- | --- |
-| [Finance Pro](https://financepr.vercel.app) | Launch an enterprise finance platform with smart reports. | Designed the Next.js and Node architecture, built PostgreSQL analytics, and created data science dashboards for finance leads. |
-| [Rare Bangladesh Ltd](https://rarebd.com) | Modernize the HVAC buyer and dealer journey. | Built a React and Node system with multilingual content and automation that tracks leads and sales. |
-| [Radhuni](https://radhuni-zeta.vercel.app) | Create a trusted chef and event marketplace. | Shipped secure booking flows on Next.js and Tailwind CSS with a clear launch and growth playbook. |
 
 ## Core Skills (Intermediate)
 
