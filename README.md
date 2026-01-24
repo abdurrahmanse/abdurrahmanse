@@ -21,7 +21,7 @@ Abdur Rahman is an AI/ML engineer and data science specialist who also works acr
 Life is a precious gift meant to be experienced and shared. Always open to meaningful conversations about technology, cinema, sports, or the beautiful complexities of life.
 
 
-## Work With Abdur 🤝
+## Work With Me 🤝
 
 - 🌐 Website: [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)
 - ✉️ Email: [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com)
