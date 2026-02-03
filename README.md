@@ -8,11 +8,11 @@ Abdur Rahman is an AI/ML engineer and data science specialist who also works acr
 
 ## About Me ✨
 
-- 🌍 Working remotely with global collaborators
-- 🎓 Pursuing an M.Sc. in CSE at Dhaka University of Engineering and Technology (DUET)
-- 🏞️ Love traveling to natural landscapes
-- 🧠 Creating content that explores and shares transformative ideas
-- 📍 Based in Dhaka, Bangladesh
+- 🌍 Working remotely with global collaborators.
+- 🎓 Pursuing an M.Sc. in CSE at Dhaka University of Engineering and Technology (DUET).
+- 🏞️ Love traveling to natural landscapes.
+- 🧠 Creating content that explores and shares transformative ideas.
+- 📍 Based in Dhaka, Bangladesh.
 
 ## Philosophy 💬
 
