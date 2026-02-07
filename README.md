@@ -18,7 +18,7 @@ Abdur Rahman is an AI/ML engineer and data science specialist who also works acr
 
 > "Life is Beautiful"
 
-Life is a precious gift meant to be experienced and shared. Always open to meaningful conversations about technology, cinema, sports, or the beautiful complexities of life.
+Life is a precious gift meant to be experienced and shared. Always open to meaningful conversations about technology, sports, or the beautiful complexities of life.
 
 
 ## Work With Me 🤝
