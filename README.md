@@ -31,4 +31,4 @@ Life is a precious gift meant to be experienced and shared. Always open to meani
 - 🐦 X (Twitter): [twitter.com/abdurrahmansoftw](https://twitter.com/abdurrahmansoftw)
 - 📄 Resume: [Download PDF](https://abdurrahmans.vercel.app/resume/resume.pdf)
 
-Share a short brief and Abdur will map the software, automation, and growth steps needed to deliver with confidence.
+Share a short brief and Abdur Rahman will map the software, automation, and growth steps needed to deliver with confidence.
