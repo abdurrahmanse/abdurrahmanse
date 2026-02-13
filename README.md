@@ -2,7 +2,7 @@
 
 # Abdur Rahman — AI/ML Engineer & Growth Partner 🌐
 
-Explore the full portfolio at [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app).
+Explore the full portfolio at [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)
 
 Abdur Rahman is an AI/ML engineer and data science specialist who also works across the full stack. He helps teams turn raw data into clear decisions, ship useful software, and back every launch with simple, repeatable growth systems.
 
