@@ -1,6 +1,7 @@
 [![Portfolio cover](/assets/abdurrahman.webp)](https://abdurrahmans.vercel.app)
 
 # Abdur Rahman
+
 ## AI/ML Engineer | Full-Stack Developer | Data Science Specialist
 
 ---
@@ -39,15 +40,15 @@ I'm an AI/ML engineer and full-stack developer who specializes in turning comple
 
 Looking for technical expertise, partnership opportunities, or just a thoughtful conversation about innovation?
 
-| Connect | Link |
-| --- | --- |
-| 🌐 Portfolio | [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app) |
-| 📧 Email | [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/abdurrahmanse](https://linkedin.com/in/abdurrahmanse) |
-| 💻 GitHub | [github.com/abdurrahmanse](https://github.com/abdurrahmanse) |
-| 📺 YouTube | [youtube.com/@abdurrahmanse](https://youtube.com/@abdurrahmanse) |
-| 𝕏 Twitter | [twitter.com/abdurrahmansoftw](https://twitter.com/abdurrahmansoftw) |
-| 📄 Resume | [Download](https://abdurrahmans.vercel.app/resume/resume.pdf) |
+| Connect      | Link                                                                   |
+| ------------ | ---------------------------------------------------------------------- |
+| 🌐 Portfolio | [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)             |
+| 📧 Email     | [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com)        |
+| 💼 LinkedIn  | [linkedin.com/in/abdurrahmanse](https://linkedin.com/in/abdurrahmanse) |
+| 💻 GitHub    | [github.com/abdurrahmanse](https://github.com/abdurrahmanse)           |
+| 📺 YouTube   | [youtube.com/@abdurrahmanse](https://youtube.com/@abdurrahmanse)       |
+| 𝕏 Twitter    | [twitter.com/abdurrahmansoftw](https://twitter.com/abdurrahmansoftw)   |
+| 📄 Resume    | [Download](https://abdurrahmans.vercel.app/resume/resume.pdf)          |
 
 ---
 
