@@ -2,13 +2,13 @@
 
 # Abdur Rahman
 
-## AI/ML Engineer | Full-Stack Developer | Data Science Specialist
+## Software Engineer | Data Science Specialist | Full-Stack Developer | Growing Partner
 
 ---
 
-**Transforming data into decisions. Building products that scale. Growing businesses systematically.**
+**Building scalable systems. Turning data into decisions. Driving measurable growth.**
 
-I'm an AI/ML engineer and full-stack developer who specializes in turning complex challenges into elegant, data-driven solutions. Working with global teams, I help organizations leverage AI, optimize systems, and execute repeatable growth strategies that deliver measurable impact.
+Full-stack engineer and data scientist delivering production-ready solutions that solve real business problems.
 
 **→ [Explore My Work](https://abdurrahmans.vercel.app)**
 
@@ -16,11 +16,9 @@ I'm an AI/ML engineer and full-stack developer who specializes in turning comple
 
 ## Core Expertise
 
-- **AI & Machine Learning** — Building intelligent systems, predictive analytics, and automation solutions
-- **Full-Stack Development** — End-to-end product development from architecture to deployment
-- **Data Science & Analytics** — Converting raw data into actionable business intelligence
-- **Growth Engineering** — Designing scalable systems and repeatable launch strategies
-- **Technical Leadership** — Collaborating with global teams and technical mentorship
+- **Software Engineer:** Full-Stack Development, API Design, Cloud Architecture, DevOps, Scalable Systems
+- **Data Science Specialist:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Analysis
+- **Growth Partner:** Marketing products, Growth Hacking, User Acquisition, Retention Strategies, Data-Driven Growth
 
 ---
 
@@ -30,7 +28,7 @@ I'm an AI/ML engineer and full-stack developer who specializes in turning comple
 
 🌍 **Location:** Dhaka, Bangladesh | **Working:** Remotely with global collaborators
 
-📚 **Beyond Code:** Passionate about technology innovation, sports, travel, and creating content that explores transformative ideas
+📚 **Beyond Code:** Passionate about technology innovation, travel, and creating content that explores transformative ideas
 
 **Philosophy:** _"Life is beautiful. Every challenge is an opportunity to learn, build, and grow."_
 
