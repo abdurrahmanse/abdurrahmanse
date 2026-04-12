@@ -15,7 +15,7 @@ Full-stack engineer and data scientist delivering production-ready solutions.
 ## Core Expertise
 
 - **Full-Stack Development:** React, Next.js, Node.js, GraphQL
-- **Data Science:** Machine Learning, NLP, Computer Vision
+- **Data Science:** AI/ML, DL, Vision, NLP, PyTorch
 - **Infrastructure:** Docker, AWS, Vercel
 
 ---
@@ -24,7 +24,7 @@ Full-stack engineer and data scientist delivering production-ready solutions.
 
 **Frontend:** React, Next.js, TypeScript, HTML/CSS  
 **Backend:** Node.js, Express, NestJS, GraphQL  
-**AI & ML:** Machine Learning, PyTorch  
+**AI & ML:** AI/ML, DL, Vision, NLP, PyTorch  
 **Databases:** PostgreSQL, MongoDB  
 **DevOps:** Docker, AWS, Vercel
 
