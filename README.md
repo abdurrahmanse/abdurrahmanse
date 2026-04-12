@@ -24,16 +24,11 @@ Full-stack engineer and data scientist delivering production-ready solutions tha
 
 ## Technical Skills
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI, Radix UI, HTML/CSS
-**Backend:** Node.js, Express, NestJS, REST API, GraphQL, API Development
-**AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow, PyTorch, LangChain
-**Data Science:** Pandas, NumPy, Statistics, Data Visualization, Data Engineering
-**Databases & ORM:** PostgreSQL, MongoDB, MySQL, Prisma, Mongoose, TypeORM
-**DevOps & Cloud:** Docker, AWS, Vercel, MLOps, Cloud Architecture
-**Tools:** Git & GitHub, VSCode, Postman, Jupyter, Terminal, JetBrains
-**State Management:** Redux, Redux Toolkit, Zustand
-**Testing:** Unit Testing, React Testing Library, Vitest
-**Soft Skills:** Communication, Problem Solving, Teamwork, Creativity, Adaptability
+**Frontend:** React, Next.js, TypeScript, HTML/CSS  
+**Backend:** Node.js, Express, NestJS, GraphQL  
+**AI & ML:** Machine Learning, TensorFlow, PyTorch  
+**Databases:** PostgreSQL, MongoDB  
+**DevOps:** Docker, AWS, Vercel
 
 ---
 
