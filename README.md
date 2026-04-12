@@ -6,9 +6,7 @@
 
 ---
 
-**Building scalable systems. Turning data into decisions. Driving measurable growth.**
-
-Full-stack engineer and data scientist delivering production-ready solutions that solve real business problems.
+Full-stack engineer and data scientist delivering production-ready solutions.
 
 **→ [Explore My Work](https://abdurrahmans.vercel.app)**
 
@@ -16,9 +14,9 @@ Full-stack engineer and data scientist delivering production-ready solutions tha
 
 ## Core Expertise
 
-- **Full-Stack Developer:** Full-Stack Development, API Design, Cloud Architecture, DevOps, Scalable Systems
-- **Data Science Specialist:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Analysis
-- **Growth Partner:** Marketing products, Growth Hacking, User Acquisition, Retention Strategies, Data-Driven Growth
+- **Full-Stack Development:** React, Next.js, Node.js, GraphQL
+- **Data Science:** Machine Learning, NLP, Computer Vision
+- **Infrastructure:** Docker, AWS, Vercel
 
 ---
 
@@ -26,7 +24,7 @@ Full-stack engineer and data scientist delivering production-ready solutions tha
 
 **Frontend:** React, Next.js, TypeScript, HTML/CSS  
 **Backend:** Node.js, Express, NestJS, GraphQL  
-**AI & ML:** Machine Learning, TensorFlow, PyTorch  
+**AI & ML:** Machine Learning, PyTorch  
 **Databases:** PostgreSQL, MongoDB  
 **DevOps:** Docker, AWS, Vercel
 
@@ -34,30 +32,20 @@ Full-stack engineer and data scientist delivering production-ready solutions tha
 
 ## About
 
-🎓 **Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
+**Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
 
-🌍 **Location:** Dhaka, Bangladesh | **Working:** Remotely with global collaborators
-
-📚 **Beyond Code:** Passionate about technology innovation, travel, and creating content that explores transformative ideas
-
-**Philosophy:** _"Life is beautiful. Every challenge is an opportunity to learn, build, and grow."_
+**Location:** Dhaka, Bangladesh | **Working:** Remotely with global teams
 
 ---
 
-## Let's Connect
+## Contact
 
-Looking for technical expertise, partnership opportunities, or just a thoughtful conversation about innovation?
+Available for consulting, technical partnerships, and professional opportunities.
 
-| Connect      | Link                                                                   |
-| ------------ | ---------------------------------------------------------------------- |
-| 🌐 Portfolio | [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)             |
-| 📧 Email     | [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com)        |
-| 💼 LinkedIn  | [linkedin.com/in/abdurrahmanse](https://linkedin.com/in/abdurrahmanse) |
-| 💻 GitHub    | [github.com/abdurrahmanse](https://github.com/abdurrahmanse)           |
-| 📺 YouTube   | [youtube.com/@abdurrahmanse](https://youtube.com/@abdurrahmanse)       |
-| 𝕏 Twitter    | [twitter.com/abdurrahmansoftw](https://twitter.com/abdurrahmansoftw)   |
-| 📄 Resume    | [Download](https://abdurrahmans.vercel.app/resume/resume.pdf)          |
-
----
-
-**Have a project in mind?** Share your brief and I'll map out the software architecture, automation steps, and growth strategy needed to deliver with confidence.
+| Channel   | Link                                                                   |
+| --------- | ---------------------------------------------------------------------- |
+| Portfolio | [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)             |
+| Email     | [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com)        |
+| LinkedIn  | [linkedin.com/in/abdurrahmanse](https://linkedin.com/in/abdurrahmanse) |
+| GitHub    | [github.com/abdurrahmanse](https://github.com/abdurrahmanse)           |
+| Resume    | [Download](https://abdurrahmans.vercel.app/resume/resume.pdf)          |
