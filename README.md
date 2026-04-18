@@ -20,16 +20,6 @@ Full-stack engineer and data scientist delivering production-ready solutions.
 
 ---
 
-## Technical Skills
-
-**Frontend:** React, Next.js, TypeScript, HTML/CSS  
-**Backend:** Node.js, Express, NestJS, GraphQL  
-**AI & ML:** AI/ML, DL, Vision, NLP, PyTorch  
-**Databases:** PostgreSQL, MongoDB  
-**DevOps:** Docker, AWS, Vercel
-
----
-
 ## About
 
 **Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
