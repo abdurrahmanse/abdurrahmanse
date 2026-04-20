@@ -28,6 +28,16 @@ Full-stack engineer and data scientist delivering production-ready solutions.
 
 ---
 
+## 📚 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanse&layout=compact&theme=nord&bg_color=0f0f1e&text_color=e4e4e7&border_color=00d4ff&hide_border=false)
+
+</div>
+
+---
+
 ## Contact
 
 Available for consulting, technical partnerships, and professional opportunities.
