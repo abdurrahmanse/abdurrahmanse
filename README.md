@@ -2,7 +2,7 @@
 
 # Abdur Rahman
 
-## Data Science Researcher | Developer | Growing Partner
+## Data Scientist | Developer | Growth Professional
 
 ---
 
