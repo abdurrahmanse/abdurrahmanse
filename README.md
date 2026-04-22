@@ -6,7 +6,7 @@
 
 ---
 
-Full-stack engineer and data scientist delivering production-ready solutions.
+My journey: started with web development, learned growth through marketing, now leading with data science. Building intelligent systems that turn complex problems into measurable solutions.
 
 **→ [Explore My Work](https://abdurrahmans.vercel.app)**
 
@@ -14,7 +14,8 @@ Full-stack engineer and data scientist delivering production-ready solutions.
 
 ## Core Expertise
 
-- **Full-Stack Development:** React, Next.js, Node.js, GraphQL
+- **Programming:** Python, JavaScript, TypeScript, SQL
+- **Full-Stack Development:** React, Next.js, FastAPI, Node.js
 - **Data Science:** AI/ML, DL, Vision, NLP, PyTorch
 - **Infrastructure:** Docker, AWS, Vercel
 
