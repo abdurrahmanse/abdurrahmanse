@@ -1,31 +1,31 @@
 [![Portfolio cover](/assets/abdurrahman.png)](https://abdurrahmans.vercel.app)
 
-# Abdur Rahman
+# 👨‍💻 Abdur Rahman
 
-## Data Scientist | Developer | Growth Professional
+## 📊 Data Scientist | 💻 Developer | 📈 Growth Professional
 
 ---
 
 My journey: started with web development, learned growth through marketing, now leading with data science. Building intelligent systems that turn complex problems into measurable solutions.
 
-**→ [Explore My Work](https://abdurrahmans.vercel.app)**
+**🌐 [Explore My Work](https://abdurrahmans.vercel.app)**
 
 ---
 
-## Core Expertise
+## 🛠️ Core Expertise
 
-- **Programming:** Python, JavaScript, TypeScript, SQL
-- **Full-Stack Development:** React, Next.js, FastAPI, Node.js
-- **Data Science:** AI/ML, DL, Vision, NLP, PyTorch
-- **Infrastructure:** Docker, AWS, Vercel
+- **💻 Programming:** Python, JavaScript, TypeScript, SQL
+- **🌐 Full-Stack Development:** React, Next.js, FastAPI, Node.js
+- **🤖 Data Science:** AI/ML, DL, Vision, NLP, PyTorch
+- **☁️ Infrastructure:** Docker, AWS, Vercel
 
 ---
 
-## About
+## 🎓 About
 
-**Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
+**🎓 Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
 
-**Location:** Dhaka, Bangladesh | **Working:** Remotely with global teams
+**📍 Location:** Dhaka, Bangladesh | **💼 Working:** Remotely with global teams
 
 ---
 
@@ -39,7 +39,7 @@ My journey: started with web development, learned growth through marketing, now 
 
 ---
 
-## Contact
+## 🤝 Contact
 
 Available for consulting, technical partnerships, and professional opportunities.
 
