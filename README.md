@@ -18,6 +18,8 @@ My journey: started with web development, learned growth through marketing, now 
 - **🌐 Full-Stack Development:** React, Next.js, FastAPI, Node.js
 - **🤖 Data Science:** AI/ML, DL, Vision, NLP, PyTorch
 - **☁️ Infrastructure:** Docker, AWS, Vercel
+- **📊 Data Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **📈 Growth:** SEO, Analytics, A/B Testing, User Acquisition, Ads
 
 ---
 
