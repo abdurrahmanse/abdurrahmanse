@@ -28,6 +28,8 @@ My journey: started with web development, learned growth through marketing, now 
 
 **📍 Location:** Dhaka, Bangladesh | **💼 Working:** Remotely with global teams
 
+** Hobbies:** Tech, AI, Open Source, Travel, Cooking
+
 ---
 
 ## 📚 Most Used Languages
