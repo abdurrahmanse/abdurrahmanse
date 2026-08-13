@@ -1,4 +1,4 @@
-[![Portfolio cover](/assets/abdurrahman.png)](https://abdurrahmans.vercel.app)
+[![Portfolio cover](/assets/abdurrahman.webp)](https://abdurrahmans.vercel.app)
 
 # 👨‍💻 Abdur Rahman
 
