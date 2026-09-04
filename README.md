@@ -2,7 +2,7 @@
 
 # 👨‍💻 Abdur Rahman
 
-## 🧠 AI/ML Researcher ⚙️ AI-Driven Full-Stack Engineer 📈 Growth Professional
+### 🧠 AI/ML Researcher ⚙️ AI-Driven Full-Stack Engineer 📈 Growth Professional
 
 ---
 
