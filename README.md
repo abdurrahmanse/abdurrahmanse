@@ -1,46 +1,44 @@
 [![Portfolio cover](/assets/abdurrahman.webp)](https://abdurrahmans.vercel.app)
 
-# 👨‍💻 Abdur Rahman
+# Abdur Rahman
 
-## 📊 Data Scientist | 💻 Developer | 📈 Growth Professional
-
----
-
-My journey: started with web development, learned growth through marketing, now leading with data science. Building intelligent systems that turn complex problems into measurable solutions.
-
-**🌐 [Explore My Work](https://abdurrahmans.vercel.app)**
+## AI/ML Researcher | AI-Driven Full-Stack Engineer | Growth Professional
 
 ---
 
-## 🛠️ Skills
+I build intelligent systems that turn complex data problems into measurable business results. My work sits at the intersection of machine learning, full-stack engineering, and data-driven growth.
 
-- **💻 Programming:** Python, JavaScript, TypeScript, SQL
-- **🌐 Full-Stack Development:** React, Next.js, FastAPI, Node.js
-- **🤖 Data Science:** AI/ML, DL, Vision, NLP, PyTorch
-- **☁️ Infrastructure:** Docker, AWS, Vercel
-- **📈 Growth:** SEO, Analytics, A/B Testing, User Acquisition, Ads
+**Explore my work:** [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)
 
 ---
 
-## 🎓 About
+## Core Competencies
 
-**🎓 Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
-
-**📍 Location:** Dhaka, Bangladesh | **💼 Working:** Remotely with global teams
-
-** Hobbies:** Tech, AI, Open Source, Travel, Cooking
+- **Programming:** Python, JavaScript, TypeScript, SQL
+- **Full-Stack Development:** React, Next.js, FastAPI, Node.js
+- **Machine Learning:** AI/ML, Deep Learning, Computer Vision, NLP, PyTorch
+- **Cloud & Infrastructure:** Docker, AWS, Vercel
+- **Growth & Analytics:** SEO, Analytics, A/B Testing, User Acquisition, Advertising
 
 ---
 
-## 📚 Most Used Languages
+## Background
+
+**Education:** M.Sc in Computer Science & Engineering (in progress) — Dhaka University of Engineering and Technology (DUET)
+
+**Location:** Dhaka, Bangladesh | **Work Mode:** Remote with global teams
+
+---
+
+## Tech Focus
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanse&layout=compact&theme=nord&show_icons=true&hide=html&langs_count=8&cache_seconds=1800)](https://github.com/abdurrahmanse)
 
 ---
 
-## 🤝 Contact
+## Get In Touch
 
-Available for consulting, technical partnerships, and professional opportunities.
+Open to consulting, technical partnerships, and professional opportunities.
 
 | Channel   | Link                                                                   |
 | --------- | ---------------------------------------------------------------------- |
