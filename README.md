@@ -40,10 +40,25 @@
 
 🤝 Open to consulting, technical partnerships, and professional opportunities.
 
-| Channel 🔗   | Link                                                                   |
-| ------------ | ---------------------------------------------------------------------- |
-| 🖥️ Portfolio | [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)             |
-| 📧 Email     | [abdurrahmansoftw@gmail.com](mailto:abdurrahmansoftw@gmail.com)        |
-| 💼 LinkedIn  | [linkedin.com/in/abdurrahmanse](https://linkedin.com/in/abdurrahmanse) |
-| 🐙 GitHub    | [github.com/abdurrahmanse](https://github.com/abdurrahmanse)           |
-| 📄 Resume    | [Download](https://abdurrahmans.vercel.app/resume/resume.pdf)          |
+<table width="100%">
+  <tr>
+    <td>🖥️ <strong>Portfolio</strong></td>
+    <td><a href="https://abdurrahmans.vercel.app">abdurrahmans.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td>📧 <strong>Email</strong></td>
+    <td><a href="mailto:abdurrahmansoftw@gmail.com">abdurrahmansoftw@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>💼 <strong>LinkedIn</strong></td>
+    <td><a href="https://linkedin.com/in/abdurrahmanse">linkedin.com/in/abdurrahmanse</a></td>
+  </tr>
+  <tr>
+    <td>🐙 <strong>GitHub</strong></td>
+    <td><a href="https://github.com/abdurrahmanse">github.com/abdurrahmanse</a></td>
+  </tr>
+  <tr>
+    <td>📄 <strong>Resume</strong></td>
+    <td><a href="https://abdurrahmans.vercel.app/resume/resume.pdf">Download Resume</a></td>
+  </tr>
+</table>
