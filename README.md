@@ -14,11 +14,11 @@
 
 ## 🛠️ Core Competencies
 
-- 💻 **Programming:** Python, JavaScript, TypeScript, SQL
-- 🌐 **Full-Stack Development:** React, Next.js, FastAPI, Node.js
-- 🤖 **Machine Learning:** AI/ML, Deep Learning, Computer Vision, NLP, PyTorch
-- ☁️ **Cloud & Infrastructure:** Docker, AWS, Vercel
-- 📊 **Growth & Analytics:** SEO, Analytics, A/B Testing, User Acquisition, Advertising
+- 💻 **Programming:** Python, TypeScript, SQL
+- 🌐 **Full-Stack Development:** React, Next.js, FastAPI
+- 🤖 **Machine Learning:** AI/ML, DL/CV, NLP, PyTorch
+- ☁️ **Cloud & Infrastructure:** CI/CD, Testing, Docker, AWS, Vercel
+- 📊 **Growth & Analytics:** SEO, Analytics, Advertising
 
 ---
 
