@@ -4,11 +4,11 @@
 
 ### 🧠 AI/ML Researcher ⚙️ AI-Driven Full-Stack Engineer 📈 Growth Professional
 
+🚀 I build intelligent systems that turn complex data problems into measurable business results. My work sits at the intersection of machine learning, full-stack engineering, and data-driven growth.
+
 <a href="https://buymeacoffee.com/abdurrahman.learn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
-
-🚀 I build intelligent systems that turn complex data problems into measurable business results. My work sits at the intersection of machine learning, full-stack engineering, and data-driven growth.
 
 🔗 **Explore my work:** [abdurrahmans.vercel.app](https://abdurrahmans.vercel.app)
 
