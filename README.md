@@ -16,7 +16,7 @@
 
 ## 🛠️ Core Competencies
 
-- 💻 **Programming:** Python, TypeScript, SQL
+- 💻 **Programming:** TypeScript, Python, SQL
 - 🌐 **Full-Stack Development:** React, Next.js, FastAPI
 - 🤖 **Machine Learning:** AI/ML, DL/CV, NLP, PyTorch
 - ☁️ **Cloud & Infrastructure:** CI/CD, Testing, Docker, AWS, Vercel
