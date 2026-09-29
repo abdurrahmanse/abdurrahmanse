@@ -2,7 +2,7 @@
 
 # 👨‍💻 Abdur Rahman
 
-### 🧠 AI/ML Researcher ⚙️ AI-Driven Full-Stack Engineer 📈 Growth Professional
+### 🧠 AI/ML Researcher ⚙️ AI-Driven Full-Stack Systems Engineer 📈 Growth Professional
 
 🚀 I build intelligent systems that turn complex data problems into measurable business results. My work sits at the intersection of machine learning, full-stack engineering, and data-driven growth.
 
